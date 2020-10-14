@@ -53,3 +53,9 @@ print('XieJiongyan, 518021911249')
 
 *screenshot:*
 ![avatar](fig/question2.png)
+
+
+
+## Appendix
+
+关于本作业的全部代码，可见<https://github.com/XieJiongyan/ML-based-on-Huawei-platform>
